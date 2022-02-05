@@ -10,7 +10,7 @@ const config = {
   tagline: 'Simple is cool',
   url: 'https://pingmin-chuanda-zhinan.vercel.app',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Teki', // Usually your GitHub org/user name.
